@@ -1,6 +1,6 @@
 ###WEATHER DATASET
 
-##Project Overview
+##Project Overview.
 This project basically focuses on using commands like -nunique() & unique, -value_counts(), -Filtering, -groupby(), -getgroup(), -isnull() & notnull(), -rename(), -mean(), -std(), -var(), -str.contains, -And (&) operator, -or (|) operator, -min() & max()
 
 ##Question Objectives
